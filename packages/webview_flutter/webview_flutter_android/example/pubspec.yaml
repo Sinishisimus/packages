@@ -21,7 +21,7 @@ dependencies:
     git:
       url: https://github.com/Sinishisimus/packages.git
       path: packages/webview_flutter/webview_flutter_platform_interface
-      ref: feature/android_web_view_render_process_terminated
+      ref: feature/web_view_ios_add_user_script_support
 
 dev_dependencies:
   espresso: ^0.2.0
